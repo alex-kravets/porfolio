@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>formuls/maxh.png</file>
+        <file>formuls/tpod.png</file>
+        <file>formuls/tpad.png</file>
+        <file>formuls/tpol.png</file>
+        <file>formuls/maxl.png</file>
+        <file>formuls/y.png</file>
+        <file>formuls/x.png</file>
+        <file>animButtons/pause.jpg</file>
+        <file>animButtons/play.jpg</file>
+        <file>animButtons/stepNext.jpg</file>
+        <file>animButtons/stepPrev.jpg</file>
+        <file>animButtons/stop.jpg</file>
+    </qresource>
+</RCC>

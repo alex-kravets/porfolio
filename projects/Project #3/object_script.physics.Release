@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\area.o
+./release\linegraph.o
+./release\HEADERS.o
+./release\+=.o
+./release\QT.o
+./release\+=.o
+./release\core.o
+./release\gui.o
+);
